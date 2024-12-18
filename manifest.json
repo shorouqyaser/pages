@@ -1,0 +1,11 @@
+{
+    "short_name": "Food",
+    "name": "Arabic Food",
+    "description":"manifest file",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "any",
+    "scope": "/",
+    "background_color": "purple",
+    "theme_color": "purple"
+  } 
